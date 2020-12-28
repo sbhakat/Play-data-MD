@@ -18,6 +18,8 @@ In order to run .py files you need:
 5. Numpy
 6. VDE https://github.com/msmbuilder/vde 
 
+Presentation can be found here: https://www.dropbox.com/s/xznpqom927sv5xk/data-competition.key?dl=0 
+
 You can see a movie of how the protein fluctuates. Install VMD in your computer and then type the following:
 
 vmd prot.pdb trajfit.xtc 
