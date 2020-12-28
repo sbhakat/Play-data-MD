@@ -5,6 +5,8 @@ COLVAR_sincos: Time-series data with sin and cos modifications of each chi1 and 
 
 scaledfeatures.pkl: Output of scaled_feature.py (run: python scaled_feature.py) which consists of scaled sin and cos modifications of each chi1 and chi2 angles.
 
+Download the data here: https://www.dropbox.com/s/7sb8sg7at0icu7h/data.zip?dl=0
+
 In order to run .py files you need:
 
 1. Python 3.6
