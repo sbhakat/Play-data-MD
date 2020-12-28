@@ -7,6 +7,8 @@ scaledfeatures.pkl: Output of scaled_feature.py (run: python scaled_feature.py) 
 
 Download the data here: https://www.dropbox.com/s/7sb8sg7at0icu7h/data.zip?dl=0
 
+In order to reproduce https://www.dropbox.com/sh/uxzgmomldcc3gxa/AAAjlLpwgE-_-pnPRqjKn4Tia?dl=0
+
 In order to run .py files you need:
 
 1. Python 3.6
