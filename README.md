@@ -7,15 +7,16 @@ scaledfeatures.pkl: Output of scaled_feature.py (run: python scaled_feature.py) 
 
 Download the data here: https://www.dropbox.com/s/7sb8sg7at0icu7h/data.zip?dl=0
 
-In order to reproduce https://www.dropbox.com/sh/uxzgmomldcc3gxa/AAAjlLpwgE-_-pnPRqjKn4Tia?dl=0
+In order to reproduce vde-res-75-86.ipynb you need the .pkl files which can be found here https://www.dropbox.com/sh/uxzgmomldcc3gxa/AAAjlLpwgE-_-pnPRqjKn4Tia?dl=0
 
 In order to run .py files you need:
 
 1. Python 3.6
-2. MSMBuilder
-3. MDTraj
+2. MSMBuilder: http://msmbuilder.org/3.8.0/
+3. MDTraj: https://mdtraj.org/1.9.4/index.html 
 4. Pandas
 5. Numpy
+6. VDE https://github.com/msmbuilder/vde 
 
 You can see a movie of how the protein fluctuates. Install VMD in your computer and then type the following:
 
