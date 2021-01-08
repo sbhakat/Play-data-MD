@@ -1,9 +1,9 @@
 # Play-data-MD
 COLVAR_data: Provides time-series data for each chi1 and chi2 angle  (Main file)
 
-COLVAR_sincos: Time-series data with sin and cos modifications of each chi1 and chi2 angles respectively.
+COLVAR_sincos: Time-series data with sin and cos modifications (Removing periodicity from data: sin(x)-<mean> or cos(x)-<mean> where x is chi1 or chi 2 angles) of each chi1 and chi2 angles respectively.(Main file)
 
-scaledfeatures.pkl: Output of scaled_feature.py (run: python scaled_feature.py) which consists of scaled sin and cos modifications of each chi1 and chi2 angles.
+scaledfeatures.pkl: Output of scaled_feature.py (run: python scaled_feature.py) which consists of scaled sin and cos modifications of each chi1 and chi2 angles. (Same as COLVAR_sincos but in .pkl format)
 
 Download the data here: https://www.dropbox.com/s/7sb8sg7at0icu7h/data.zip?dl=0
 
@@ -20,13 +20,14 @@ In order to run .py files you need:
 
 Presentation can be found here: https://www.dropbox.com/s/xznpqom927sv5xk/data-competition.key?dl=0 
 
+For Curious folks:
+
 You can see a movie of how the protein fluctuates. Install VMD in your computer and then type the following:
 
 vmd prot.pdb trajfit.xtc 
 
 trajfit.xtc is a big file. Please contact the author to get the file seperately.
 
-Removing periodicity from data: sin(x)-<mean> or cos(x)-<mean>
  
  Notes:
  
