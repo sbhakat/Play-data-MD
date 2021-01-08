@@ -28,6 +28,11 @@ vmd prot.pdb trajfit.xtc
 
 trajfit.xtc is a big file. Please contact the author to get the file seperately.
 
+Interesting papers:
+1. Machine learning approaches for analyzing and enhancing molecular dynamics simulations, https://www.sciencedirect.com/science/article/abs/pii/S0959440X19301551
+2. Machine Learning for Molecular Simulation, https://www.annualreviews.org/doi/abs/10.1146/annurev-physchem-042018-052331
+3. Learning molecular dynamics with simple language model built upon long short-term memory neural network, https://www.nature.com/articles/s41467-020-18959-8
+
  
  Notes:
  
