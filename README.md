@@ -35,6 +35,6 @@ trajfit.xtc is a big file. Please contact the author to get the file seperately.
 
 You need to install Plumed in your computer and then run: 
 
-Plumed driver --mf_xtc trajfit.xtc --plumed plumed.dat --pdb prot-plm-apo.pdb
+plumed driver --mf_xtc trajfit.xtc --plumed plumed.dat --pdb prot-plm-apo.pdb
 
 Please email bhakatsoumendranath@gmail.com for more details
